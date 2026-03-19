@@ -132,6 +132,9 @@
 **Задание 1:** Настройка рабочего окружения
 1. Создайте новый SSH-ключ (если ещё нет) и добавьте его в аккаунт GitHub
 2. Настройте глобальные параметры Git:
+- git config --global user.name "Ваше Имя"
+- git config --global user.email "ваш_email@example.com"
+- git config --global core.editor "code --wait" # Для VS Code
 
 **Создание репозитория**
 1. На GitHub создайте репозиторий algorithm-practice
