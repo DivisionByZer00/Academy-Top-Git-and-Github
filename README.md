@@ -59,9 +59,9 @@
 **Задание 3:**  Эксперименты с reset
 1. Сделайте новый коммит с изменениями
 2. Попробуйте по очереди:
-  - git reset --soft HEAD~1
-  - git reset --mixed HEAD~1
-  - git reset --hard HEAD~1
+- git reset --soft HEAD~1
+- git reset --mixed HEAD~1
+- git reset --hard HEAD~1
 3. Опишите разницу в результатах
 
 **Задание 4:** Практика с revert
